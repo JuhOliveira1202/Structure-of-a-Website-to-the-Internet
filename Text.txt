@@ -1,0 +1,8 @@
+
+Title -> Cell phone virus capable of contaminating PC discovered 
+
+1st paragraph -> A torjan horse designed to infect Symbiam cell phones appears to also have the ability to infect PC´s with Windows operating systems, thus revealing a new type of virus capable of contaminating both types of equipment.
+
+2nd paragraph -> According to several security companies, this virus identified as belonging to this new variant called "cardtrp.a" and initially transmits through a Bluetooth connection or through a download made over the Internet. 
+
+3rd paragraph -> So far, cardtrp.a has mostly infected Symbiam Series 60 devices as well as Nokia cell phones, causing malfunctional and corrupting the system data.  
